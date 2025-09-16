@@ -33,7 +33,6 @@ mvn clean install
 ```
 
 ### ▶️ Run
-Since this is a console application:
 ```bash
 # Option 1: Run with Maven
 mvn exec:java -Dexec.mainClass="com.example.Main"
